@@ -1,0 +1,12 @@
+.score {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 300px;
+  background-color: #4f39f4;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  color: white;
+}
